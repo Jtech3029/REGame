@@ -1,5 +1,5 @@
 [package]
-name = "unwrapp"
+name = "regame"
 version = "0.1.0"
 description = "A Tauri App"
 authors = ["you"]
